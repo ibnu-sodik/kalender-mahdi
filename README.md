@@ -4,8 +4,6 @@ This repository is function for convert date to mahdi calendar
 You can download or clone this repository to install
 # Using
 <pre>
-<?php 
-
 date_default_timezone_set('Asia/Jakarta');
 
 function tanggal_mahdi($tanggal)
