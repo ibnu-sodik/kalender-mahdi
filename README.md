@@ -91,5 +91,7 @@ function tahun_mahdi($tanggal)
 example for date
 <pre>
 $tanggal = date('Y-m-d');
-echo tanggal_mahdi($tanggal)
+echo tanggal_mahdi($tanggal);
+// output
+12 Al Husain 09 MHD
 </pre>
